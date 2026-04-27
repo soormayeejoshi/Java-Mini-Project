@@ -1,0 +1,17 @@
+E:\Projects\java_mini\src\main\java\com\visualshop\config\AppConfig.java
+E:\Projects\java_mini\src\main\java\com\visualshop\controller\AdminController.java
+E:\Projects\java_mini\src\main\java\com\visualshop\controller\AuthController.java
+E:\Projects\java_mini\src\main\java\com\visualshop\controller\ShopController.java
+E:\Projects\java_mini\src\main\java\com\visualshop\db\DatabaseManager.java
+E:\Projects\java_mini\src\main\java\com\visualshop\db\SchemaInitializer.java
+E:\Projects\java_mini\src\main\java\com\visualshop\MainApplication.java
+E:\Projects\java_mini\src\main\java\com\visualshop\model\CartItem.java
+E:\Projects\java_mini\src\main\java\com\visualshop\model\Product.java
+E:\Projects\java_mini\src\main\java\com\visualshop\model\User.java
+E:\Projects\java_mini\src\main\java\com\visualshop\repository\CartRepository.java
+E:\Projects\java_mini\src\main\java\com\visualshop\repository\OrderRepository.java
+E:\Projects\java_mini\src\main\java\com\visualshop\repository\ProductRepository.java
+E:\Projects\java_mini\src\main\java\com\visualshop\repository\UserRepository.java
+E:\Projects\java_mini\src\main\java\com\visualshop\repository\WishlistRepository.java
+E:\Projects\java_mini\src\main\java\com\visualshop\service\CartService.java
+E:\Projects\java_mini\src\main\java\com\visualshop\util\CSVProductParser.java
